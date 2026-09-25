@@ -1,43 +1,29 @@
 <div align="center">
 
-<!-- Header Banner Minimalis -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Hello,%20I'm%20Fahri%20👋&fontSize=42&fontColor=00f2fe&animation=fadeIn" width="100%" alt="Header" />
+<!-- Typing Effect Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F2FE&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%90%8B,+I'm+Fahri;Web+Developer;Minimalist+Design+Enthusiast;Client-Side+Specialist" alt="Typing SVG" />
+</a>
 
 <p align="center">
-  <b>Web Developer | Minimalist Design | Client-Side Specialist</b>
-</p>
-
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=USERNAME_GITHUB_KAMU&label=VISITORS&labelColor=%230d1117&countColor=%2300f2fe&style=for-the-badge" alt="Visitors" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=USERNAME_KAMU&label=PROFILE%20VIEWS&labelColor=%230d1117&countColor=%2300f2fe&style=for-the-badge" alt="Visitors" />
 </p>
 
 ---
 
-### 💫 About Me
-</div>
-
-- 💻 **Focus:** Developing lightweight, fast, and functional client-side web applications.
-- 🎨 **Design:** Love clean, minimalist, and responsive UI/UX experiences.
-- 🛠️ **Performance:** Prioritizing zero bloat, low resource usage, and pure efficiency.
-
----
-
-<div align="center">
-
-### 🛠️ Skills & Tech Stack
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-### 🌐 My Web & Projects
+### 🌐 My Ecosystem
 
 <p align="center">
   <a href="https://fahriweb.js.org" target="_blank">
@@ -50,10 +36,27 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=00f2fe" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🐍 Contribution Graph Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME_KAMU/USERNAME_KAMU/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME_KAMU/USERNAME_KAMU/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/USERNAME_KAMU/USERNAME_KAMU/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
