@@ -1,8 +1,11 @@
 <div align="center">
 
+<!-- Wave Animation Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=35&fontColor=0d1117&animation=fadeIn" width="100%" alt="Header Wave" />
+
 <!-- Typing Effect Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F2FE&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%90%8B,+I'm+Fahri;Web+Developer;Minimalist+Design+Enthusiast;Client-Side+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F2FE&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%90%8B,+I'm+Fahri;Web+Developer;Minimalist+Design+Enthusiast;Client-Side+Specialist" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -39,12 +42,15 @@
 ### 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahriftrhmn14&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahriftrhmn14&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fahriftrhmn14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahriftrhmn14&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahriftrhmn14&theme=tokyonight&hide_border=true&bg_color=0d1117&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahriftrhmn14&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 ---
@@ -52,3 +58,5 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Tech Quote" />
 </p>
+
+</div>
