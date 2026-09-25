@@ -4,6 +4,10 @@
   Web Developer | Minimalist Design | Little project
 </p>
 
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=USERNAME_GITHUB_KAMU&label=VISITORS&countColor=%23263759" alt="Visitors" />
+</p>
+
 ---
 
 ### 💫 About Me
@@ -28,6 +32,21 @@
 <p left>
   <a href="https://fahriweb.js.org" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a href="https://fahri.is-a.bot" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://fahri.is-a.bot" target="_blank">
+    <img src="https://img.shields.io/badge/Bot_Site-111111?style=for-the-badge&logo=probot&logoColor=white" alt="Bot Site" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Tech Quote" />
 </p>
