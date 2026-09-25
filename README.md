@@ -6,7 +6,7 @@
 </a>
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=USERNAME_KAMU&label=PROFILE%20VIEWS&labelColor=%230d1117&countColor=%2300f2fe&style=for-the-badge" alt="Visitors" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=fahriftrhmn14&label=PROFILE%20VIEWS&labelColor=%230d1117&countColor=%2300f2fe&style=for-the-badge" alt="Visitors" />
 </p>
 
 ---
@@ -39,28 +39,16 @@
 ### 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fahriftrhmn14&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahriftrhmn14&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahriftrhmn14&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🐍 Contribution Graph Activity
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME_KAMU/USERNAME_KAMU/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME_KAMU/USERNAME_KAMU/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/USERNAME_KAMU/USERNAME_KAMU/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Tech Quote" />
 </p>
-
----
-
-> *"Simplicity is the soul of efficiency."* — **Austin Freeman**
-
-</div>
