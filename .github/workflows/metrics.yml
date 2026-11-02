@@ -17,12 +17,12 @@ jobs:
           user: fahriftrhmn14
           template: classic
           
-          # TEMA WARNA NEO PURPLE / PROFESSIONAL DARK
+          # PARAMETER TEMA RESMI LOWLIGHTER
+          config_theme: purplenight
           config_timezone: Asia/Jakarta
           config_padding: 10%
-          theme: tokyo-night
           
-          # Base & Plugin
+          # BASE & PLUGIN
           base: header, activity, community, repositories, metadata
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
