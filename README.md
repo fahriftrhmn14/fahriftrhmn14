@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <a href="https://fahriweb.is-a.dev"><img src="https://img.shields.io/badge/Website-fahriweb.is--a.dev-FFFFFF?style=for-the-badge&logoColor=000000&labelColor=000000" /></a>
+  <a href="https://fahrilabs.is-a.dev"><img src="https://img.shields.io/badge/Website-fahriweb.is--a.dev-FFFFFF?style=for-the-badge&logoColor=000000&labelColor=000000" /></a>
   <a href="https://github.com/fahriftrhmn14"><img src="https://img.shields.io/badge/GitHub-fahriftrhmn14-E5E7EB?style=for-the-badge&logoColor=000000&labelColor=000000" /></a>
 </p>
 
