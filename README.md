@@ -29,7 +29,7 @@
 ### 🌐 My Ecosystem
 
 <p align="center">
-  <a href="https://fahriweb.js.org" target="_blank">
+  <a href="https://fahrilabs.is-a.dev" target="_blank">
     <img src="https://img.shields.io/badge/Website-fahriweb.js.org-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00f2fe" alt="Website" />
   </a>
   <a href="https://fahri.is-a.bot" target="_blank">
