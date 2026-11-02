@@ -17,10 +17,10 @@ jobs:
           user: fahriftrhmn14
           template: classic
           
-          # PENGATURAN WARNA KONTRAS TINGGI (HITAM PEKAT)
+          # TEMA WARNA NEO PURPLE / PROFESSIONAL DARK
           config_timezone: Asia/Jakarta
           config_padding: 10%
-          style_svg_background: "#000000"
+          theme: tokyo-night
           
           # Base & Plugin
           base: header, activity, community, repositories, metadata
